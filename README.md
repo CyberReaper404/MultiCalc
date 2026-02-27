@@ -1,4 +1,4 @@
-🧮 Calculadora Científica - C# e JavaScript
+Calculadora Científica - C# e JavaScript
 
 Este repositório reúne duas versões de uma calculadora científica desenvolvidas como parte de um projeto maior. Inicialmente, fiz a versão em Python (disponível em outro repositório) e, depois, tive a ideia de implementar a mesma calculadora em C# e JavaScript para adquirir mais conhecimento e praticar diferentes linguagens.
 
